@@ -18,6 +18,6 @@ One command gives any MCP host three tools: **elicit_confirm** (OK/Cancel),
 | 📦 [`elicitly`](https://www.npmjs.com/package/elicitly) | The local stdio MCP server |
 | 🧰 [`@elicitly/tools`](https://www.npmjs.com/package/@elicitly/tools) | Embed the elicitation tools in **your own** MCP server |
 | 📚 [Documentation](https://www.elicitly.ai/docs/) | Tools reference, guides, Support Matrix |
-| ⚡ [Pro Edition](https://www.elicitly.ai/) | Hosted approvals: review pages, audit trail, dashboards |
+| ⚡ [Pro Edition](https://www.elicitly.ai/docs/pro/) | Hosted approvals: review pages, audit trail, dashboards |
 
 Open source under Apache-2.0 · © Preneur LLC
