@@ -20,4 +20,4 @@ One command gives any MCP host three tools: **elicit_confirm** (OK/Cancel),
 | 📚 [Documentation](https://www.elicitly.ai/docs/) | Tools reference, guides, Support Matrix |
 | ⚡ [Pro Edition](https://www.elicitly.ai/docs/pro/) | Hosted approvals: review pages, audit trail, dashboards |
 
-Open source under Apache-2.0 · © Preneur LLC
+Open source under Apache-2.0 · © Preneur LLC · Elicitly™ is a trademark of Preneur LLC ([policy](https://www.elicitly.ai/trademarks/))
