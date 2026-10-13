@@ -8,10 +8,11 @@ human-in-the-loop for prompts and [Agent Skills](https://agentskills.io/) over
 npx -y elicitly
 ```
 
-One command gives any MCP host three tools: **elicit_confirm** (OK/Cancel),
-**elicit_form** (your own JSON schema), and **elicit_doctor** (does this host
-*actually* support elicitation? — feeding the public
-[Support Matrix](https://www.elicitly.ai/docs/elicitation/support-matrix/)).
+One command gives any MCP host four tools: **elicit_confirm** (OK/Cancel),
+**elicit_form** (your own JSON schema), **elicit_display** (a template
+[rendered inline as an MCP App](https://www.elicitly.ai/docs/tools/elicit_display/)),
+and **elicit_doctor** (does this host *actually* support elicitation? — feeding
+the public [Support Matrix](https://www.elicitly.ai/docs/elicitation/support-matrix/)).
 
 |  |  |
 | --- | --- |
